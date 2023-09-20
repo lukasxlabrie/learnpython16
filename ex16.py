@@ -19,3 +19,5 @@ print("Now, I'm going to ask you for three lines.")
 line1 = input("Line 1: ")
 line2 = input("Line 2: ")
 line3 = input("Line 3: ")
+
+print("I'm going to write these to the file")
