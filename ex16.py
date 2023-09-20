@@ -9,3 +9,4 @@ print ("If you do want that, hit RETURN.")
 input("?")
 
 print("Opening the file...")
+target = opem(filename, 'w')
