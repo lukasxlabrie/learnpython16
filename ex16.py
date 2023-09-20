@@ -10,3 +10,6 @@ input("?")
 
 print("Opening the file...")
 target = opem(filename, 'w')
+
+print("Truncating the file. Goodbye!")
+target.truncate()
