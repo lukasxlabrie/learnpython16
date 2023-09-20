@@ -9,7 +9,7 @@ print ("If you do want that, hit RETURN.")
 input("?")
 
 print("Opening the file...")
-target = opem(filename, 'w')
+target = open(filename, 'w')
 
 print("Truncating the file. Goodbye!")
 target.truncate()
