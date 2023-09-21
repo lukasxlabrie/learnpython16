@@ -45,3 +45,5 @@ target.write("\n")
 #acts as a save, essenitally completes the program
 print("And finally, we close it.")
 target.close()
+
+#this goes with 16_2 which will print what gets added to tewst.txt
